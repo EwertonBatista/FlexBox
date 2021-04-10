@@ -59,8 +59,29 @@ img {
     max-width: 960px;
     margin: 0 auto;
     display: flex;
-    padding: 15px 0;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    padding: 15px 0;
+}
+
+.menu a {
+    color: white;
+}
+
+.menu-logo a{
+    font-size: 2.25em;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.menu-nav ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu-nav a {
+    padding: 20px 10px;
+    font-size: 1.25em;
+    display: block;
 }
