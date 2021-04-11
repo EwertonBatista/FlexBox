@@ -85,3 +85,19 @@ img {
     font-size: 1.25em;
     display: block;
 }
+
+/* Introdução */
+
+.introducao {
+    font-size: 3em;
+    line-height: 1;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 60px 10px;
+}
+
+.sobre {
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    
+}
